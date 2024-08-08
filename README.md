@@ -1,4 +1,4 @@
-# Physical Design from Netlist to GDSII in ICC/ICC2
+# Physical Design from Netlist to GDSII in ICC/ICC2/PrimeTime/OpenRoad
 
 Welcome to the repository for the "Physical Design from Netlist to GDSII in ICC/ICC2" course. This repository contains the completed lab exercises, which cover various stages of the physical design flow, including SPICE simulation, synthesis, floorplanning, placement, clock tree synthesis, signal routing, static timing analysis, and design optimization using OpenRoad.
 
