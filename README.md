@@ -89,12 +89,19 @@ This lab involves optimizing the RISC-V design using the OpenRoad tool suite.
 
 The repository is organized as follows:
 lab1 /spice_simulation - invx4_tt0p65v-40c.spi - invx4_tt0p65v-40c_out.mt0 - invx4_tt0p65v-40c_out.tr0
+
 /lab2 /synthesis - dc_28nm.tcl - dc_28nm.log - dc_7nm.tcl - dc_7nm.log
+
 /lab3 /physical_design - setup.tcl - tluplus_optimization_ctrl.tcl - pad_cell_cons.tcl - insert_pad_filler.tcl - connect_pg.tcl - preplace_macros.tcl - fp_placement.tcl - fp_placement_large_area.tcl
+
 /lab4 /physical_design - fp_placement.tcl - fp_placement_large_area.tcl
+
 /lab5 /physical_design - run_cts.tcl
+
 /lab6 /physical_design - run.tcl
+
 /lab7 - prelayout_sta.tcl - postlayout_sta.tcl
+
 /lab8 /openRoad_flow - config.mk - Makefile - results/ - reports/ - logs/
 
 
